@@ -1,3 +1,2 @@
 #!/usr/bin/env python
-
-print "hello kitty~"
+print('hello kitty~')
